@@ -1,1 +1,5 @@
-For my Q1 project, I would like to make an app that allows you to search a tv show or movie and find out which episodes you can watch and where. Specifically, it would give you links to each streaming service/download options available with a tag telling you if the service is free, subscription, or pay to download. A summary and picture of the episode will also be included.
+PickFlix is a web app that allows you to search a tv show or movie and find out where you can watch the media of interest. Specifically, it will give you links to each streaming service/download options available with a tag telling you if the service is free, subscription, or pay to download. Additional information about the show or movie of interest is also provided, including overview, cast, and year aired.
+
+PickFlix was the first application I built! Unfortunately, since then the API has moved to corporate supbscriptions only, so the app is mostly unusable. Check out my video below to see what it used to do!
+
+https://www.youtube.com/edit?o=U&video_id=Dd6w8-4XrSw 
